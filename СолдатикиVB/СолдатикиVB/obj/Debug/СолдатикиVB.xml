@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+СолдатикиVB
+</name>
+</assembly>
+<members>
+<member name="T:СолдатикиVB.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._3">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._4">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._5">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources._6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Attach">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Fon">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Shield">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Skip">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.SoundMenu1">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Turn">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:СолдатикиVB.My.Resources.Resources.Сетка">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
